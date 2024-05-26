@@ -12,8 +12,6 @@ The datetime package is commented out in case someone wants to make the program 
 
 The gif is from https://tenor.com/view/marionritzenjanssen-gif-19358479.
 
-![](https://github.com/nykie738/Samba_de_Koala/blob/main/taniecK.gif)
-
 <p align="center">
   <img src=https://github.com/nykie738/Samba_de_Koala/blob/main/taniecK.gif alt="animated" />
 </p>
