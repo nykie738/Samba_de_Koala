@@ -1,6 +1,6 @@
 # Samba_de_Koala
 
-FUN FACT: Koalas are known for their extensive sleep habits, typically sleeping between 18 to 22 hours per day.
+FUN FACT: Koalas are known for their extensive sleep habits, typically **sleeping between 18 to 22 hours per day**.
 
 Some of my labmates have an unhealthy sleep schedule (either sleep rly late or sleep too long). 
 They aren't as bad as a koala but I hope to solve their problem with this program.
@@ -12,7 +12,7 @@ The datetime package is commented out in case someone wants to make the program 
 
 If you happen to browse through this code, you will realize that the window will pop out in fullscreen. *Do not problem!* You can tab out and stop the program by the classic "Control-c" on the terminal. Otherwise, you may try the several options I added which will terminate the running program. The options are "Control-w", "Control-q", and "Escape" (all of them are keyboard input).
 
-How to run the program on terminal (not complex):
+**How to run the program on terminal (not complex):**
 ```
 python imAwake.py
 ```
