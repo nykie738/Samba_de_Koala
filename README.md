@@ -10,7 +10,12 @@ The program uses pillow (PIL) and numpy. If these are not installed in your (or 
 You may change the name of the gif file. However, keep in mind that you will need to make the changes to the path in the code as well.
 The datetime package is commented out in case someone wants to make the program pop out a window on a specific time. Otherwise, the code should work untouched.
 
-If you happen to browse through this code, you will realize that the window will pop out in fullscreen. Do not problem! You can tab out and stop the program by the classic "Control-c" on the terminal. Otherwise, you may try the several options I added which will terminate the running program. The options are "Control-w", "Control-q", and "Escape" (all of them are keyboard input).
+If you happen to browse through this code, you will realize that the window will pop out in fullscreen. *Do not problem!* You can tab out and stop the program by the classic "Control-c" on the terminal. Otherwise, you may try the several options I added which will terminate the running program. The options are "Control-w", "Control-q", and "Escape" (all of them are keyboard input).
+
+How to run the program on terminal (not complex):
+```
+python imAwake.py
+```
 
 The gif is from https://tenor.com/view/marionritzenjanssen-gif-19358479.
 
