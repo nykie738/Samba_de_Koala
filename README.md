@@ -11,3 +11,5 @@ You may change the name of the gif file. However, keep in mind that you will nee
 The datetime package is commented out in case someone wants to make the program pop out a window on a specific time. Otherwise, the code should work untouched.
 
 The gif is from https://tenor.com/view/marionritzenjanssen-gif-19358479.
+
+![](https://github.com/nykie738/Samba_de_Koala/blob/main/taniecK.gif)
