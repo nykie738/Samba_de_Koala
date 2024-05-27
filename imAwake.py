@@ -38,6 +38,7 @@ def run_koala():
     while True:
         #current_time = datetime.now().strftime("%H:%M")
         doro = 1
+        #if current_time == "13:00":
         if doro == 1:
             global root
             global iniT
